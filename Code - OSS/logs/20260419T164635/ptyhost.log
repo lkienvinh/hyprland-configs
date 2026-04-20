@@ -1,0 +1,1 @@
+2026-04-19 17:03:43.958 [error] [RPC Response] PtyService#serializeTerminalState Cannot find package '@xterm/addon-serialize' imported from /usr/lib/code/out/vs/platform/terminal/node/ptyHostMain.js

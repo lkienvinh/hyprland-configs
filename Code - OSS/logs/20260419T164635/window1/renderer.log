@@ -1,0 +1,15 @@
+2026-04-19 16:46:36.652 [info] Started local extension host with pid 3797.
+2026-04-19 16:46:37.211 [error] Extension 'ms-python.debugpy CANNOT USE these API proposals 'portsAttributes, debugVisualization, contribViewsWelcome'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2026-04-19 16:46:37.211 [error] Extension 'ms-python.python CANNOT USE these API proposals 'contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, terminalDataWriteEvent, terminalExecuteCommandEvent, codeActionAI, notebookReplDocument, notebookVariableProvider'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2026-04-19 16:46:37.212 [error] Extension 'ms-python.vscode-python-envs CANNOT USE these API proposals 'terminalShellEnv, terminalDataWriteEvent, taskExecutionTerminal'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2026-04-19 16:46:39.747 [info] [perf] Render performance baseline is 58ms
+2026-04-19 16:46:51.556 [error] An unknown error occurred. Please consult the log for more details.
+2026-04-19 16:50:43.838 [error] An unknown error occurred. Please consult the log for more details.
+2026-04-19 16:58:12.884 [error] Cannot read properties of undefined (reading 'dimensions'): TypeError: Cannot read properties of undefined (reading 'dimensions')
+    at get dimensions (vscode-file://vscode-app/usr/lib/code/node_modules/@xterm/xterm/lib/xterm.js:1:241618)
+    at get dimensions (vscode-file://vscode-app/usr/lib/code/node_modules/@xterm/xterm/lib/xterm.js:1:46520)
+    at get dimensions (vscode-file://vscode-app/usr/lib/code/node_modules/@xterm/xterm/lib/xterm.js:1:254613)
+    at dv._updatePtyDimensions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3871:3213)
+    at hct._resizeXCallback (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3867:37130)
+    at hct._debounceResizeX (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3867:18996)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:483:14481

@@ -1,0 +1,15 @@
+{
+    "admin":{
+        "password": "12345",
+        "name": "luongkienvinh",
+        "age": 13,
+        "url_avatar": "/home/lkvinh"
+    },
+    
+    "admin2":{
+        "password": "12345",
+        "name": "phamhoangthang",
+        "age": 13,
+        "url_avatar": "/home/bin1109"
+    }
+}

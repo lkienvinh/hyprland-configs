@@ -1,0 +1,127 @@
+2026-04-19 16:46:38.621 [info] Python-envs extension version: 1.28.0
+2026-04-19 16:46:38.621 [info] 
+=== Python Envs Configuration Levels ===
+2026-04-19 16:46:38.621 [info] {
+  "section": "Python Envs Configuration Levels",
+  "defaultEnvManager": {
+    "workspaceFolderValue": "undefined",
+    "workspaceValue": "undefined",
+    "globalValue": "undefined",
+    "defaultValue": "ms-python.python:venv"
+  },
+  "defaultPackageManager": {
+    "workspaceFolderValue": "undefined",
+    "workspaceValue": "undefined",
+    "globalValue": "undefined",
+    "defaultValue": "ms-python.python:pip"
+  }
+}
+2026-04-19 16:46:38.621 [info] [pet] Starting Python Locator /home/lkvinh/.vscode-oss/extensions/ms-python.python-2026.4.0-universal/python-env-tools/bin/pet server
+2026-04-19 16:46:38.621 [info] Registering pyenv manager (environments will be discovered lazily)
+2026-04-19 16:46:38.621 [info] Registering pipenv manager (environments will be discovered lazily)
+2026-04-19 16:46:38.621 [info] Registering poetry manager (environments will be discovered lazily)
+2026-04-19 16:46:38.621 [error] [pet] Process error: A system error occurred (spawn /home/lkvinh/.vscode-oss/extensions/ms-python.python-2026.4.0-universal/python-env-tools/bin/pet ENOENT)
+2026-04-19 16:46:38.621 [warning] [pet] Restarting Python Environment Tools (attempt 1/3, waiting 1000ms)
+2026-04-19 16:46:39.573 [info] [pet] Starting Python Locator /home/lkvinh/.vscode-oss/extensions/ms-python.python-2026.4.0-universal/python-env-tools/bin/pet server
+2026-04-19 16:46:39.573 [info] [pet] Python Environment Tools restarted successfully
+2026-04-19 16:46:39.577 [info] [pet] configure: Sending configuration update: {"workspaceDirectories":["/home/lkvinh/kienvinh"],"environmentDirectories":["/home/lkvinh/kienvinh/.venv","/home/lkvinh/kienvinh/*/.venv"],"pipenvExecutable":"pipenv","poetryExecutable":"poetry","cacheDirectory":"/home/lkvinh/.config/Code - OSS/User/globalStorage/ms-python.vscode-python-envs/pythonLocator"}
+2026-04-19 16:46:39.578 [error] [pet] Process error: A system error occurred (spawn /home/lkvinh/.vscode-oss/extensions/ms-python.python-2026.4.0-universal/python-env-tools/bin/pet ENOENT)
+2026-04-19 16:47:09.577 [warning] [pet] Configure request timed out (attempt 1/2), will retry on next request without killing process
+2026-04-19 16:47:09.577 [error] [pet] Error refreshing Request 'configure' timed out after 30000ms
+2026-04-19 16:47:09.578 [warning] [pet] Restarting Python Environment Tools (attempt 2/3, waiting 2000ms)
+2026-04-19 16:47:09.578 [info] Conda not found, turning off conda features. [b: Request 'configure' timed out after 30000ms
+	at Timeout.<anonymous> (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:549906)
+	at listOnTimeout (node:internal/timers:588:17)
+	at process.processTimers (node:internal/timers:523:7)] {
+  method: 'configure'
+}
+2026-04-19 16:47:09.580 [info] [interpreterSelection] Applying initial environment selection for 1 workspace folder(s)
+2026-04-19 16:47:11.585 [info] [pet] Starting Python Locator /home/lkvinh/.vscode-oss/extensions/ms-python.python-2026.4.0-universal/python-env-tools/bin/pet server
+2026-04-19 16:47:11.585 [info] [pet] Python Environment Tools restarted successfully
+2026-04-19 16:47:11.586 [info] [pet] configure: Sending configuration update: {"workspaceDirectories":["/home/lkvinh/kienvinh"],"environmentDirectories":["/home/lkvinh/kienvinh/.venv","/home/lkvinh/kienvinh/*/.venv"],"pipenvExecutable":"pipenv","poetryExecutable":"poetry","cacheDirectory":"/home/lkvinh/.config/Code - OSS/User/globalStorage/ms-python.vscode-python-envs/pythonLocator"}
+2026-04-19 16:47:11.586 [error] [pet] Process error: A system error occurred (spawn /home/lkvinh/.vscode-oss/extensions/ms-python.python-2026.4.0-universal/python-env-tools/bin/pet ENOENT)
+2026-04-19 16:47:41.589 [warning] [pet] Configure request timed out (attempt 1/2), will retry on next request without killing process
+2026-04-19 16:47:41.589 [error] [pet] Error refreshing Request 'configure' timed out after 30000ms
+2026-04-19 16:47:41.589 [error] [venv] Background initialization failed: [b: Request 'configure' timed out after 30000ms
+	at Timeout.<anonymous> (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:549906)
+	at listOnTimeout (node:internal/timers:588:17)
+	at process.processTimers (node:internal/timers:523:7)] {
+  method: 'configure'
+}
+2026-04-19 16:47:41.591 [warning] [pet] Restarting Python Environment Tools (attempt 3/3, waiting 4000ms)
+2026-04-19 16:47:45.597 [info] [pet] Starting Python Locator /home/lkvinh/.vscode-oss/extensions/ms-python.python-2026.4.0-universal/python-env-tools/bin/pet server
+2026-04-19 16:47:45.597 [info] [pet] Python Environment Tools restarted successfully
+2026-04-19 16:47:45.598 [info] [pet] configure: Sending configuration update: {"workspaceDirectories":["/home/lkvinh/kienvinh"],"environmentDirectories":["/home/lkvinh/kienvinh/.venv","/home/lkvinh/kienvinh/*/.venv"],"pipenvExecutable":"pipenv","poetryExecutable":"poetry","cacheDirectory":"/home/lkvinh/.config/Code - OSS/User/globalStorage/ms-python.vscode-python-envs/pythonLocator"}
+2026-04-19 16:47:45.599 [error] [pet] Process error: A system error occurred (spawn /home/lkvinh/.vscode-oss/extensions/ms-python.python-2026.4.0-universal/python-env-tools/bin/pet ENOENT)
+2026-04-19 16:48:15.601 [warning] [pet] Configure request timed out (attempt 1/2), will retry on next request without killing process
+2026-04-19 16:48:15.602 [error] [pet] Error refreshing Request 'configure' timed out after 30000ms
+2026-04-19 16:48:15.602 [error] [system] Background initialization failed: [b: Request 'configure' timed out after 30000ms
+	at Timeout.<anonymous> (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:549906)
+	at listOnTimeout (node:internal/timers:588:17)
+	at process.processTimers (node:internal/timers:523:7)] {
+  method: 'configure'
+}
+2026-04-19 16:48:15.602 [info] [SYS_GET] uri=/home/lkvinh/kienvinh, normalizedKey=/home/lkvinh/kienvinh, project=/home/lkvinh/kienvinh, projectKey=/home/lkvinh/kienvinh, mapKeys=[], directHit=false, projectHit=false, fallbackToGlobal=true, globalEnv=none
+2026-04-19 16:48:15.603 [error] [venv] Background initialization failed: [Error: Python Environment Tools (PET) failed after 3 restart attempts. Please reload the window or check the output channel for details. To debug, run "Python Environments: Run Python Environment Tool (PET) in Terminal" from the Command Palette.
+	at T.ensureProcessRunning (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:551199)
+	at T.doRefreshAttempt (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:556419)
+	at T.doRefresh (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:555976)
+	at c.workerFunc (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:550424)
+	at o.workFunc (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:292774)
+	at o.start (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:291589)]
+2026-04-19 16:48:15.605 [info] [interpreterSelection] kienvinh: none (source: autoDiscovery)
+2026-04-19 16:48:15.606 [error] [interpreterSelection] Failed to set global environment: Error: Python Environment Tools (PET) failed after 3 restart attempts. Please reload the window or check the output channel for details. To debug, run "Python Environments: Run Python Environment Tool (PET) in Terminal" from the Command Palette.
+2026-04-19 16:48:15.609 [error] [venv] Background initialization failed: [Error: Python Environment Tools (PET) failed after 3 restart attempts. Please reload the window or check the output channel for details. To debug, run "Python Environments: Run Python Environment Tool (PET) in Terminal" from the Command Palette.
+	at T.ensureProcessRunning (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:551199)
+	at T.doRefreshAttempt (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:556419)
+	at T.doRefresh (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:555976)
+	at c.workerFunc (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:550424)
+	at o.workFunc (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:292774)
+	at o.start (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:291589)]
+2026-04-19 16:48:15.611 [error] [venv] Background initialization failed: [Error: Python Environment Tools (PET) failed after 3 restart attempts. Please reload the window or check the output channel for details. To debug, run "Python Environments: Run Python Environment Tool (PET) in Terminal" from the Command Palette.
+	at T.ensureProcessRunning (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:551199)
+	at T.doRefreshAttempt (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:556419)
+	at T.doRefresh (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:555976)
+	at c.workerFunc (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:550424)
+	at o.workFunc (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:292774)
+	at o.start (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:291589)]
+2026-04-19 16:48:15.613 [error] [venv] Background initialization failed: [Error: Python Environment Tools (PET) failed after 3 restart attempts. Please reload the window or check the output channel for details. To debug, run "Python Environments: Run Python Environment Tool (PET) in Terminal" from the Command Palette.
+	at T.ensureProcessRunning (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:551199)
+	at T.doRefreshAttempt (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:556419)
+	at T.doRefresh (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:555976)
+	at c.workerFunc (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:550424)
+	at o.workFunc (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:292774)
+	at o.start (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:291589)]
+2026-04-19 16:48:15.614 [error] [venv] Background initialization failed: [Error: Python Environment Tools (PET) failed after 3 restart attempts. Please reload the window or check the output channel for details. To debug, run "Python Environments: Run Python Environment Tool (PET) in Terminal" from the Command Palette.
+	at T.ensureProcessRunning (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:551199)
+	at T.doRefreshAttempt (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:556419)
+	at T.doRefresh (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:555976)
+	at c.workerFunc (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:550424)
+	at o.workFunc (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:292774)
+	at o.start (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:291589)]
+2026-04-19 16:48:15.616 [info] Refreshing pyenv environments
+2026-04-19 16:48:15.617 [error] Pyenv lazy initialization failed [Error: Python Environment Tools (PET) failed after 3 restart attempts. Please reload the window or check the output channel for details. To debug, run "Python Environments: Run Python Environment Tool (PET) in Terminal" from the Command Palette.
+	at T.ensureProcessRunning (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:551199)
+	at T.doRefreshAttempt (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:556419)
+	at T.doRefresh (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:555976)
+	at c.workerFunc (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:550424)
+	at o.workFunc (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:292774)
+	at o.start (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:291589)]
+2026-04-19 16:48:15.618 [info] Pipenv not found via settings, cache, or PATH
+2026-04-19 16:48:15.619 [info] Refreshing pipenv environments
+2026-04-19 16:48:15.619 [error] Pipenv lazy initialization failed [Error: Python Environment Tools (PET) failed after 3 restart attempts. Please reload the window or check the output channel for details. To debug, run "Python Environments: Run Python Environment Tool (PET) in Terminal" from the Command Palette.
+	at T.ensureProcessRunning (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:551199)
+	at T.doRefreshAttempt (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:556419)
+	at T.doRefresh (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:555976)
+	at c.workerFunc (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:550424)
+	at o.workFunc (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:292774)
+	at o.start (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:291589)]
+2026-04-19 16:48:15.620 [info] Refreshing poetry environments
+2026-04-19 16:48:15.621 [error] Poetry lazy initialization failed [Error: Python Environment Tools (PET) failed after 3 restart attempts. Please reload the window or check the output channel for details. To debug, run "Python Environments: Run Python Environment Tool (PET) in Terminal" from the Command Palette.
+	at T.ensureProcessRunning (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:551199)
+	at T.doRefreshAttempt (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:556419)
+	at T.doRefresh (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:555976)
+	at c.workerFunc (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:550424)
+	at o.workFunc (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:292774)
+	at o.start (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:291589)]
+2026-04-19 16:48:15.621 [warning] No Python environments were found. Try running "Python Environments: Run Python Environment Tool (PET) in Terminal..." from the Command Palette to diagnose. If environments should be detected, please report this: https://github.com/microsoft/vscode-python-environments/issues/new

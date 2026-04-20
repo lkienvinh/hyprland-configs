@@ -1,0 +1,41 @@
+2026-04-19 16:39:52.023 [warning] Dir "/home/lkvinh/kienvinh/.pixi/envs" is not watchable (directory does not exist)
+2026-04-19 16:39:52.050 [info] Starting Environment refresh
+2026-04-19 16:39:52.050 [info] Searching for interpreters in posix paths locator
+2026-04-19 16:39:52.058 [info] Searching for pyenv environments
+2026-04-19 16:39:52.059 [info] Searching for conda environments
+2026-04-19 16:39:52.059 [info] Searching for global virtual environments
+2026-04-19 16:39:52.059 [info] Searching for custom virtual environments
+2026-04-19 16:39:52.065 [info] pyenv is not installed
+2026-04-19 16:39:52.065 [info] Finished searching for pyenv environments: 14 milliseconds
+2026-04-19 16:39:52.066 [info] Finished searching for custom virtual envs: 12 milliseconds
+2026-04-19 16:39:52.071 [info] > conda info --json
+2026-04-19 16:39:52.078 [info] > hatch env show --json
+2026-04-19 16:39:52.078 [info] cwd: .
+2026-04-19 16:39:52.087 [info] > pyenv which python
+2026-04-19 16:39:52.087 [info] cwd: .
+2026-04-19 16:39:52.087 [info] Finished searching for global virtual envs: 35 milliseconds
+2026-04-19 16:39:52.172 [info] Found: /bin/python --> /bin/python3.14
+2026-04-19 16:39:52.173 [info] Found: /bin/python3 --> /bin/python3.14
+2026-04-19 16:39:52.174 [info] Found: /bin/python3.14 --> /bin/python3.14
+2026-04-19 16:39:52.204 [info] Found: /sbin/python --> /sbin/python3.14
+2026-04-19 16:39:52.205 [info] Found: /sbin/python3 --> /sbin/python3.14
+2026-04-19 16:39:52.205 [info] Found: /sbin/python3.14 --> /sbin/python3.14
+2026-04-19 16:39:52.213 [info] Found: /usr/bin/python --> /usr/bin/python3.14
+2026-04-19 16:39:52.214 [info] Found: /usr/bin/python3 --> /usr/bin/python3.14
+2026-04-19 16:39:52.214 [info] Found: /usr/bin/python3.14 --> /usr/bin/python3.14
+2026-04-19 16:39:52.251 [info] Found: /usr/sbin/python --> /usr/sbin/python3.14
+2026-04-19 16:39:52.251 [info] Found: /usr/sbin/python3 --> /usr/sbin/python3.14
+2026-04-19 16:39:52.252 [info] Found: /usr/sbin/python3.14 --> /usr/sbin/python3.14
+2026-04-19 16:39:52.271 [info] > /bin/python -I ~/.vscode-oss/extensions/ms-python.python-2026.4.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2026.4.0-universal/python_files/interpreterInfo.py
+2026-04-19 16:39:52.284 [info] > /sbin/python -I ~/.vscode-oss/extensions/ms-python.python-2026.4.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2026.4.0-universal/python_files/interpreterInfo.py
+2026-04-19 16:39:52.291 [info] Finished searching for interpreters in posix paths locator: 242 milliseconds
+2026-04-19 16:39:52.297 [info] Environments refresh paths discovered (event): 249 milliseconds
+2026-04-19 16:39:52.297 [info] Environments refresh paths discovered: 249 milliseconds
+2026-04-19 16:39:52.320 [info] > /usr/bin/python -I ~/.vscode-oss/extensions/ms-python.python-2026.4.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2026.4.0-universal/python_files/interpreterInfo.py
+2026-04-19 16:39:52.329 [info] > /usr/sbin/python -I ~/.vscode-oss/extensions/ms-python.python-2026.4.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2026.4.0-universal/python_files/interpreterInfo.py
+2026-04-19 16:39:52.366 [info] Environments refresh finished (event): 318 milliseconds
+2026-04-19 16:39:52.373 [info] Environment refresh took 324 milliseconds
+2026-04-19 16:39:52.376 [info] Python interpreter path: /bin/python
+2026-04-19 16:39:53.601 [info] Starting Jedi language server for kienvinh.
+2026-04-19 16:40:00.955 [info] CreateEnv Trigger - Skipping for /home/lkvinh/kienvinh/bai2.py
+2026-04-19 16:41:15.909 [info] Send text to terminal: /bin/python /home/lkvinh/kienvinh/bai2.py

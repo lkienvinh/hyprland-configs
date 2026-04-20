@@ -1,0 +1,6 @@
+2026-04-19 16:59:09.809 [info] Getting Manifest... rodolphebarbanneau.python-docstring-highlighter
+2026-04-19 16:59:10.096 [info] Installing extension: rodolphebarbanneau.python-docstring-highlighter {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/lkvinh/.vscode-oss/extensions/extensions.json","path":"/home/lkvinh/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.114.0","date":"2026-04-01T09:27:11Z"}}
+2026-04-19 16:59:13.039 [info] Extension signature verification result for rodolphebarbanneau.python-docstring-highlighter: Success. Executed: true. Duration: 568ms.
+2026-04-19 16:59:13.084 [info] Extracted extension to file:///home/lkvinh/.vscode-oss/extensions/rodolphebarbanneau.python-docstring-highlighter-0.2.4-universal: rodolphebarbanneau.python-docstring-highlighter
+2026-04-19 16:59:13.091 [info] Renamed to /home/lkvinh/.vscode-oss/extensions/rodolphebarbanneau.python-docstring-highlighter-0.2.4-universal
+2026-04-19 16:59:13.108 [info] Extension installed successfully: rodolphebarbanneau.python-docstring-highlighter vscode-userdata:/home/lkvinh/.vscode-oss/extensions/extensions.json

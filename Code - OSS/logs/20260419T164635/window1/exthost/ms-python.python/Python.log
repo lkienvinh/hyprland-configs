@@ -1,0 +1,51 @@
+2026-04-19 16:46:38.622 [warning] Dir "/home/lkvinh/kienvinh/.pixi/envs" is not watchable (directory does not exist)
+2026-04-19 16:46:38.714 [info] > /bin/python -I ~/.vscode-oss/extensions/ms-python.python-2026.4.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2026.4.0-universal/python_files/interpreterInfo.py
+2026-04-19 16:46:38.764 [info] Python interpreter path: /bin/python
+2026-04-19 16:46:38.832 [info] > pyenv which python
+2026-04-19 16:46:38.832 [info] cwd: .
+2026-04-19 16:46:40.139 [info] Starting Jedi language server for kienvinh.
+2026-04-19 16:46:46.014 [info] CreateEnv Trigger - Skipping for /home/lkvinh/kienvinh/bai2.py
+2026-04-19 16:49:54.750 [info] Starting Environment refresh
+2026-04-19 16:49:54.750 [info] Searching for interpreters in posix paths locator
+2026-04-19 16:49:54.751 [info] Searching for pyenv environments
+2026-04-19 16:49:54.751 [info] Searching for conda environments
+2026-04-19 16:49:54.752 [info] Searching for global virtual environments
+2026-04-19 16:49:54.752 [info] Searching for custom virtual environments
+2026-04-19 16:49:54.759 [info] > conda info --json
+2026-04-19 16:49:54.763 [info] > hatch env show --json
+2026-04-19 16:49:54.763 [info] cwd: .
+2026-04-19 16:49:54.766 [info] pyenv is not installed
+2026-04-19 16:49:54.766 [info] Finished searching for pyenv environments: 16 milliseconds
+2026-04-19 16:49:54.766 [info] Finished searching for custom virtual envs: 15 milliseconds
+2026-04-19 16:49:54.768 [info] Finished searching for global virtual envs: 17 milliseconds
+2026-04-19 16:49:54.781 [info] Found: /bin/python --> /bin/python3.14
+2026-04-19 16:49:54.782 [info] Found: /bin/python3 --> /bin/python3.14
+2026-04-19 16:49:54.782 [info] Found: /bin/python3.14 --> /bin/python3.14
+2026-04-19 16:49:54.816 [info] Found: /sbin/python --> /sbin/python3.14
+2026-04-19 16:49:54.816 [info] Found: /sbin/python3 --> /sbin/python3.14
+2026-04-19 16:49:54.816 [info] Found: /sbin/python3.14 --> /sbin/python3.14
+2026-04-19 16:49:54.822 [info] Found: /usr/bin/python --> /usr/bin/python3.14
+2026-04-19 16:49:54.822 [info] Found: /usr/bin/python3 --> /usr/bin/python3.14
+2026-04-19 16:49:54.822 [info] Found: /usr/bin/python3.14 --> /usr/bin/python3.14
+2026-04-19 16:49:54.847 [info] Found: /usr/sbin/python --> /usr/sbin/python3.14
+2026-04-19 16:49:54.847 [info] Found: /usr/sbin/python3 --> /usr/sbin/python3.14
+2026-04-19 16:49:54.848 [info] Found: /usr/sbin/python3.14 --> /usr/sbin/python3.14
+2026-04-19 16:49:54.858 [info] > /sbin/python -I ~/.vscode-oss/extensions/ms-python.python-2026.4.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2026.4.0-universal/python_files/interpreterInfo.py
+2026-04-19 16:49:54.867 [info] Finished searching for interpreters in posix paths locator: 115 milliseconds
+2026-04-19 16:49:54.867 [info] > /usr/bin/python -I ~/.vscode-oss/extensions/ms-python.python-2026.4.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2026.4.0-universal/python_files/interpreterInfo.py
+2026-04-19 16:49:54.873 [info] Environments refresh paths discovered (event): 125 milliseconds
+2026-04-19 16:49:54.873 [info] Environments refresh paths discovered: 125 milliseconds
+2026-04-19 16:49:54.899 [info] > /usr/sbin/python -I ~/.vscode-oss/extensions/ms-python.python-2026.4.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2026.4.0-universal/python_files/interpreterInfo.py
+2026-04-19 16:49:54.933 [info] Environments refresh finished (event): 185 milliseconds
+2026-04-19 16:49:54.936 [info] Environment refresh took 188 milliseconds
+2026-04-19 16:50:03.117 [info] Active interpreter [/home/lkvinh/kienvinh]:  /bin/python
+2026-04-19 16:50:03.657 [info] Starting Jedi language server for kienvinh.
+2026-04-19 16:50:41.117 [info] > ./.venv/bin/python -I ~/.vscode-oss/extensions/ms-python.python-2026.4.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2026.4.0-universal/python_files/interpreterInfo.py
+2026-04-19 16:50:41.117 [info] Environments refresh paths discovered: 9 milliseconds
+2026-04-19 16:50:41.146 [info] Environments refresh finished (event): 38 milliseconds
+2026-04-19 16:50:45.521 [info] Active interpreter [/home/lkvinh/kienvinh]:  /home/lkvinh/kienvinh/.venv/bin/python
+2026-04-19 16:50:45.523 [info] Python interpreter path: ./.venv/bin/python
+2026-04-19 16:50:46.091 [info] Starting Jedi language server for kienvinh.
+2026-04-19 16:57:50.055 [error] Unable to find workspace for given file
+2026-04-19 16:58:23.977 [error] Unable to find workspace for given file
+2026-04-19 16:58:30.173 [error] Unable to find workspace for given file

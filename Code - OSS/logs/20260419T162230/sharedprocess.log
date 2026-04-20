@@ -1,0 +1,18 @@
+2026-04-19 16:39:44.405 [info] Getting Manifest... ms-python.python
+2026-04-19 16:39:44.703 [info] Installing extension: ms-python.python {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/lkvinh/.vscode-oss/extensions/extensions.json","path":"/home/lkvinh/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.114.0","date":"2026-04-01T09:27:11Z"}}
+2026-04-19 16:39:45.622 [info] Getting Manifest... ms-python.vscode-python-envs
+2026-04-19 16:39:46.096 [info] Getting Manifest... ms-python.debugpy
+2026-04-19 16:39:46.170 [info] Installing extension: ms-python.vscode-python-envs {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/lkvinh/.vscode-oss/extensions/extensions.json","path":"/home/lkvinh/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.114.0","date":"2026-04-01T09:27:11Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2026-04-19 16:39:46.170 [info] Installing extension: ms-python.debugpy {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/lkvinh/.vscode-oss/extensions/extensions.json","path":"/home/lkvinh/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.114.0","date":"2026-04-01T09:27:11Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2026-04-19 16:39:48.523 [info] Extension signature verification result for ms-python.vscode-python-envs: Success. Executed: true. Duration: 534ms.
+2026-04-19 16:39:48.664 [info] Extracted extension to file:///home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal: ms-python.vscode-python-envs
+2026-04-19 16:39:48.679 [info] Renamed to /home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal
+2026-04-19 16:39:48.980 [info] Extension signature verification result for ms-python.debugpy: Success. Executed: true. Duration: 467ms.
+2026-04-19 16:39:49.157 [info] Extension signature verification result for ms-python.python: Success. Executed: true. Duration: 800ms.
+2026-04-19 16:39:49.735 [info] Extracted extension to file:///home/lkvinh/.vscode-oss/extensions/ms-python.debugpy-2025.18.0-linux-x64: ms-python.debugpy
+2026-04-19 16:39:49.760 [info] Renamed to /home/lkvinh/.vscode-oss/extensions/ms-python.debugpy-2025.18.0-linux-x64
+2026-04-19 16:39:51.080 [info] Extracted extension to file:///home/lkvinh/.vscode-oss/extensions/ms-python.python-2026.4.0-universal: ms-python.python
+2026-04-19 16:39:51.219 [info] Renamed to /home/lkvinh/.vscode-oss/extensions/ms-python.python-2026.4.0-universal
+2026-04-19 16:39:51.241 [info] Extension installed successfully: ms-python.vscode-python-envs vscode-userdata:/home/lkvinh/.vscode-oss/extensions/extensions.json
+2026-04-19 16:39:51.241 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/home/lkvinh/.vscode-oss/extensions/extensions.json
+2026-04-19 16:39:51.241 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/lkvinh/.vscode-oss/extensions/extensions.json

@@ -1,0 +1,56 @@
+2026-04-19 16:46:37.628 [info] Extension host with pid 3797 started
+2026-04-19 16:46:37.628 [info] Skipping acquiring lock for /home/lkvinh/.config/Code - OSS/User/workspaceStorage/c270e0602f02c2dc2fa2d3fd2dbe9d3c.
+2026-04-19 16:46:37.833 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-04-19 16:46:37.875 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-04-19 16:46:37.901 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2026-04-19 16:46:38.163 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'onLanguage:python'
+2026-04-19 16:46:38.230 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2026-04-19 16:46:38.240 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2026-04-19 16:46:38.259 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2026-04-19 16:46:38.374 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2026-04-19 16:46:38.846 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2026-04-19 16:46:38.927 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-04-19 16:46:39.043 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-04-19 16:46:39.116 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-04-19 16:46:39.329 [info] Eager extensions activated
+2026-04-19 16:46:39.331 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-04-19 16:46:39.349 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-04-19 16:46:39.771 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2026-04-19 16:50:43.836 [error] Error: Python Environment Tools (PET) failed after 3 restart attempts. Please reload the window or check the output channel for details. To debug, run "Python Environments: Run Python Environment Tool (PET) in Terminal" from the Command Palette.
+	at T.ensureProcessRunning (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:551199)
+	at T.doRefreshAttempt (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:556419)
+	at T.doRefresh (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:555976)
+	at c.workerFunc (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:550424)
+	at o.workFunc (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:292774)
+	at o.start (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:291589)
+2026-04-19 16:55:27.365 [error] [ms-python.python] provider FAILED
+2026-04-19 16:55:27.365 [error] Error: KeyError: 'age'
+	at ae (/home/lkvinh/.vscode-oss/extensions/ms-python.python-2026.4.0-universal/out/client/extension.js:2:2045190)
+	at oe (/home/lkvinh/.vscode-oss/extensions/ms-python.python-2026.4.0-universal/out/client/extension.js:2:2043156)
+	at Immediate.<anonymous> (/home/lkvinh/.vscode-oss/extensions/ms-python.python-2026.4.0-universal/out/client/extension.js:2:2039455)
+	at process.processImmediate (node:internal/timers:485:21)
+2026-04-19 16:55:27.845 [error] [ms-python.python] provider FAILED
+2026-04-19 16:55:27.845 [error] Error: KeyError: 'name'
+	at ae (/home/lkvinh/.vscode-oss/extensions/ms-python.python-2026.4.0-universal/out/client/extension.js:2:2045190)
+	at oe (/home/lkvinh/.vscode-oss/extensions/ms-python.python-2026.4.0-universal/out/client/extension.js:2:2043156)
+	at Immediate.<anonymous> (/home/lkvinh/.vscode-oss/extensions/ms-python.python-2026.4.0-universal/out/client/extension.js:2:2039455)
+	at process.processImmediate (node:internal/timers:485:21)
+2026-04-19 16:57:49.694 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-04-19 17:03:43.973 [info] Extension host terminating: received terminate message from renderer
+2026-04-19 17:03:43.999 [error] TypeError: Cannot read properties of undefined (reading 'subscriptions')
+	at Object.te [as deactivate] (/home/lkvinh/.vscode-oss/extensions/ms-python.vscode-python-envs-1.28.0-universal/dist/extension.js:2:732040)
+	at lP._deactivate (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:505:14479)
+	at file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:505:12006
+	at Array.map (<anonymous>)
+	at lP._deactivateAll (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:505:11994)
+	at lP.terminate (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:505:12345)
+	at r.terminate (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:507:1072)
+	at Gs (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:821:11700)
+	at op.value (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:821:9847)
+	at E._deliver (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:403:3043)
+	at E.fire (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:403:3361)
+	at as.fire (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:405:8437)
+	at MessagePortMain.<anonymous> (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:821:8082)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959)
+2026-04-19 17:03:44.002 [info] Extension host with pid 3797 exiting with code 0
